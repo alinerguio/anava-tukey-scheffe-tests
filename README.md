@@ -1,8 +1,8 @@
-# Anova, Teste de Tukey e Scheffé
+# ANAVA, Teste de Tukey e Scheffé
 
 ## Objetivo
 
-Executar cálculos de Anova, Teste de Tukey e Teste de Scheffé utilizando bibliotecas prontas para interpretação em exercício da disciplina Estatística Experimental da UFLA. 
+Executar cálculos de Anava, Teste de Tukey e Teste de Scheffé utilizando bibliotecas prontas para interpretação em exercício da disciplina Estatística Experimental da UFLA. 
 
 ## Requistos
 
